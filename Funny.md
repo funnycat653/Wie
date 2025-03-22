@@ -1,2 +1,2 @@
-# Wie
+.# Wie
 Funny app
